@@ -1,0 +1,4 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="hint_id">Enter your ID</string>
+</resources>
